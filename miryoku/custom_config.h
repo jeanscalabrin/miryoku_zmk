@@ -1,6 +1,7 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#define U_TAPPING_TERM 180
 
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
